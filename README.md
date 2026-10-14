@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Smart-Electrical-Grid-Demand-Management-Platforms/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Smart-Electrical-Grid-Demand-Management-Platforms?style=flat-square&color=blue" alt="Stars Badge"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Smart-Electrical-Grid-Demand-Management-Platforms/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Smart-Electrical-Grid-Demand-Management-Platforms?style=flat-square&color=blue" alt="Stars_Badge"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Smart-Electrical-Grid-Demand-Management-Platforms/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Smart-Electrical-Grid-Demand-Management-Platforms?style=flat-square&color=blue" alt="Forks Badge"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Smart-Electrical-Grid-Demand-Management-Platforms/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT"/></a>
@@ -76,85 +76,85 @@ The following enterprise platforms provide commercial software, API infrastructu
 
 Open-source implementations enable research institutions, municipal utilities, and independent aggregators to deploy transparent dispatch algorithms, test control loops in co-simulation, and maintain data sovereignty without proprietary lock-in.
 
-*Table and listing are sorted descending by GitHub Star Count.*
+*Table and listing are sorted descending by GitHub Stars_Count.*
 
-| Repository | GitHub Stars Badge | Primary Language | License | Focus Area |
+| Repository | GitHub_Stars_Badge | Primary Language | License | Focus Area |
 | :--- | :--- | :--- | :--- | :--- |
-| **[evcc](https://github.com/evcc-io/evcc)** | [![GitHub stars](https://img.shields.io/github/stars/evcc-io/evcc?style=social&color=white)](https://github.com/evcc-io/evcc/stargazers) | Go | MIT | EV smart charging, solar PV surplus peak-shaving, dynamic tariffs |
-| **[PyPSA](https://github.com/PyPSA/PyPSA)** | [![GitHub stars](https://img.shields.io/github/stars/PyPSA/PyPSA?style=social&color=white)](https://github.com/PyPSA/PyPSA/stargazers) | Python | MIT | Power system dispatch, demand flexibility, sector-coupled grid simulation |
-| **[CityLearn](https://github.com/citylearn-project/CityLearn)** | [![GitHub stars](https://img.shields.io/github/stars/citylearn-project/CityLearn?style=social&color=white)](https://github.com/citylearn-project/CityLearn/stargazers) | Python | MIT | Reinforcement learning environment for building demand response & load shaping |
-| **[VOLTTRON](https://github.com/VOLTTRON/volttron)** | [![GitHub stars](https://img.shields.io/github/stars/VOLTTRON/volttron?style=social&color=white)](https://github.com/VOLTTRON/volttron/stargazers) | Python | Apache-2.0 | DOE/PNNL distributed IoT agent platform for building-to-grid coordination |
-| **[oemof-solph](https://github.com/oemof/oemof-solph)** | [![GitHub stars](https://img.shields.io/github/stars/oemof/oemof-solph?style=social&color=white)](https://github.com/oemof/oemof-solph/stargazers) | Python | MIT | Mixed-integer linear programming (MILP) energy system optimization |
-| **[EVerest](https://github.com/EVerest/everest-core)** | [![GitHub stars](https://img.shields.io/github/stars/EVerest/everest-core?style=social&color=white)](https://github.com/EVerest/everest-core/stargazers) | C++ | Apache-2.0 | LF Energy EV charging stack with ISO 15118-20, OCPP, and smart V2G support |
-| **[eemeter](https://github.com/openeemeter/eemeter)** | [![GitHub stars](https://img.shields.io/github/stars/openeemeter/eemeter?style=social&color=white)](https://github.com/openeemeter/eemeter/stargazers) | Python | Apache-2.0 | Normalized Metered Energy Consumption (NMEC) & demand response savings |
-| **[FlexMeasures](https://github.com/FlexMeasures/flexmeasures)** | [![GitHub stars](https://img.shields.io/github/stars/FlexMeasures/flexmeasures?style=social&color=white)](https://github.com/FlexMeasures/flexmeasures/stargazers) | Python | Apache-2.0 | LF Energy EMS platform for BTM flexibility optimization & dynamic scheduling |
-| **[PowSyBl](https://github.com/powsybl/powsybl-core)** | [![GitHub stars](https://img.shields.io/github/stars/powsybl/powsybl-core?style=social&color=white)](https://github.com/powsybl/powsybl-core/stargazers) | Java | MPL-2.0 | LF Energy power system blocks for grid calculation, contingency & load flow |
-| **[OpenLEADR Python](https://github.com/OpenLEADR/openleadr-python)** | [![GitHub stars](https://img.shields.io/github/stars/OpenLEADR/openleadr-python?style=social&color=white)](https://github.com/OpenLEADR/openleadr-python/stargazers) | Python | Apache-2.0 | OpenADR 2.0b standard implementation for Virtual Top Nodes (VTN) & VENs |
-| **[Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform)** | [![GitHub stars](https://img.shields.io/github/stars/OSGP/open-smart-grid-platform?style=social&color=white)](https://github.com/OSGP/open-smart-grid-platform/stargazers) | Java | Apache-2.0 | Generic, open-source smart grid communication & utility asset management |
-| **[OpenLEADR-rs](https://github.com/OpenLEADR/openleadr-rs)** | [![GitHub stars](https://img.shields.io/github/stars/OpenLEADR/openleadr-rs?style=social&color=white)](https://github.com/OpenLEADR/openleadr-rs/stargazers) | Rust | Apache-2.0 | High-performance, memory-safe OpenADR 3.0 & 3.1 protocol client and server |
-| **[vinerya/virtual-power-plant](https://github.com/vinerya/virtual-power-plant)** | [![GitHub stars](https://img.shields.io/github/stars/vinerya/virtual-power-plant?style=social&color=white)](https://github.com/vinerya/virtual-power-plant/stargazers) | Python | MIT | Comprehensive VPP simulation, dispatch optimization, and WebSocket telemetry |
-| **[VPP Optimization System](https://github.com/2308087369/Virtual-power-plants)** | [![GitHub stars](https://img.shields.io/github/stars/2308087369/Virtual-power-plants?style=social&color=white)](https://github.com/2308087369/Virtual-power-plants/stargazers) | Python | MIT | Multi-resource VPP coordination on oemof-solph with CBC linear programming |
-| **[DRAF](https://github.com/DrafProject/draf)** | [![GitHub stars](https://img.shields.io/github/stars/DrafProject/draf?style=social&color=white)](https://github.com/DrafProject/draf/stargazers) | Python | GPL-3.0 | Demand Response Analysis Framework for local multi-energy microgrid hubs |
-| **[NREL Virtual Battery Aggregator](https://github.com/NREL/virtual-battery-aggregator)** | [![GitHub stars](https://img.shields.io/github/stars/NREL/virtual-battery-aggregator?style=social&color=white)](https://github.com/NREL/virtual-battery-aggregator/stargazers) | Python | BSD-3-Clause | Aggregates diverse DERs as virtual battery models for centralized control |
-| **[VOLTTRON AEMS](https://github.com/VOLTTRON/volttron-pnnl-aems)** | [![GitHub stars](https://img.shields.io/github/stars/VOLTTRON/volttron-pnnl-aems?style=social&color=white)](https://github.com/VOLTTRON/volttron-pnnl-aems/stargazers) | Python | Apache-2.0 | Autonomous Energy Management Software for small/medium commercial buildings |
-| **[FRS-FASTDERMS](https://github.com/LBNL-ETA/frs-fastderms)** | [![GitHub stars](https://img.shields.io/github/stars/LBNL-ETA/frs-fastderms?style=social&color=white)](https://github.com/LBNL-ETA/frs-fastderms/stargazers) | Python | BSD-3-Clause | LBNL/DOE hierarchical flexible resource scheduler for distribution substations |
+| **[evcc](https://github.com/evcc-io/evcc)** | [![GitHub_Stars](https://img.shields.io/github/stars/evcc-io/evcc?style=social&color=white)](https://github.com/evcc-io/evcc/stargazers) | Go | MIT | EV smart charging, solar PV surplus peak-shaving, dynamic tariffs |
+| **[PyPSA](https://github.com/PyPSA/PyPSA)** | [![GitHub_Stars](https://img.shields.io/github/stars/PyPSA/PyPSA?style=social&color=white)](https://github.com/PyPSA/PyPSA/stargazers) | Python | MIT | Power system dispatch, demand flexibility, sector-coupled grid simulation |
+| **[CityLearn](https://github.com/citylearn-project/CityLearn)** | [![GitHub_Stars](https://img.shields.io/github/stars/citylearn-project/CityLearn?style=social&color=white)](https://github.com/citylearn-project/CityLearn/stargazers) | Python | MIT | Reinforcement learning environment for building demand response & load shaping |
+| **[VOLTTRON](https://github.com/VOLTTRON/volttron)** | [![GitHub_Stars](https://img.shields.io/github/stars/VOLTTRON/volttron?style=social&color=white)](https://github.com/VOLTTRON/volttron/stargazers) | Python | Apache-2.0 | DOE/PNNL distributed IoT agent platform for building-to-grid coordination |
+| **[oemof-solph](https://github.com/oemof/oemof-solph)** | [![GitHub_Stars](https://img.shields.io/github/stars/oemof/oemof-solph?style=social&color=white)](https://github.com/oemof/oemof-solph/stargazers) | Python | MIT | Mixed-integer linear programming (MILP) energy system optimization |
+| **[EVerest](https://github.com/EVerest/everest-core)** | [![GitHub_Stars](https://img.shields.io/github/stars/EVerest/everest-core?style=social&color=white)](https://github.com/EVerest/everest-core/stargazers) | C++ | Apache-2.0 | LF Energy EV charging stack with ISO 15118-20, OCPP, and smart V2G support |
+| **[eemeter](https://github.com/openeemeter/eemeter)** | [![GitHub_Stars](https://img.shields.io/github/stars/openeemeter/eemeter?style=social&color=white)](https://github.com/openeemeter/eemeter/stargazers) | Python | Apache-2.0 | Normalized Metered Energy Consumption (NMEC) & demand response savings |
+| **[FlexMeasures](https://github.com/FlexMeasures/flexmeasures)** | [![GitHub_Stars](https://img.shields.io/github/stars/FlexMeasures/flexmeasures?style=social&color=white)](https://github.com/FlexMeasures/flexmeasures/stargazers) | Python | Apache-2.0 | LF Energy EMS platform for BTM flexibility optimization & dynamic scheduling |
+| **[PowSyBl](https://github.com/powsybl/powsybl-core)** | [![GitHub_Stars](https://img.shields.io/github/stars/powsybl/powsybl-core?style=social&color=white)](https://github.com/powsybl/powsybl-core/stargazers) | Java | MPL-2.0 | LF Energy power system blocks for grid calculation, contingency & load flow |
+| **[OpenLEADR Python](https://github.com/OpenLEADR/openleadr-python)** | [![GitHub_Stars](https://img.shields.io/github/stars/OpenLEADR/openleadr-python?style=social&color=white)](https://github.com/OpenLEADR/openleadr-python/stargazers) | Python | Apache-2.0 | OpenADR 2.0b standard implementation for Virtual Top Nodes (VTN) & VENs |
+| **[Open Smart Grid Platform](https://github.com/OSGP/open-smart-grid-platform)** | [![GitHub_Stars](https://img.shields.io/github/stars/OSGP/open-smart-grid-platform?style=social&color=white)](https://github.com/OSGP/open-smart-grid-platform/stargazers) | Java | Apache-2.0 | Generic, open-source smart grid communication & utility asset management |
+| **[OpenLEADR-rs](https://github.com/OpenLEADR/openleadr-rs)** | [![GitHub_Stars](https://img.shields.io/github/stars/OpenLEADR/openleadr-rs?style=social&color=white)](https://github.com/OpenLEADR/openleadr-rs/stargazers) | Rust | Apache-2.0 | High-performance, memory-safe OpenADR 3.0 & 3.1 protocol client and server |
+| **[vinerya/virtual-power-plant](https://github.com/vinerya/virtual-power-plant)** | [![GitHub_Stars](https://img.shields.io/github/stars/vinerya/virtual-power-plant?style=social&color=white)](https://github.com/vinerya/virtual-power-plant/stargazers) | Python | MIT | Comprehensive VPP simulation, dispatch optimization, and WebSocket telemetry |
+| **[VPP Optimization System](https://github.com/2308087369/Virtual-power-plants)** | [![GitHub_Stars](https://img.shields.io/github/stars/2308087369/Virtual-power-plants?style=social&color=white)](https://github.com/2308087369/Virtual-power-plants/stargazers) | Python | MIT | Multi-resource VPP coordination on oemof-solph with CBC linear programming |
+| **[DRAF](https://github.com/DrafProject/draf)** | [![GitHub_Stars](https://img.shields.io/github/stars/DrafProject/draf?style=social&color=white)](https://github.com/DrafProject/draf/stargazers) | Python | GPL-3.0 | Demand Response Analysis Framework for local multi-energy microgrid hubs |
+| **[NREL Virtual Battery Aggregator](https://github.com/NREL/virtual-battery-aggregator)** | [![GitHub_Stars](https://img.shields.io/github/stars/NREL/virtual-battery-aggregator?style=social&color=white)](https://github.com/NREL/virtual-battery-aggregator/stargazers) | Python | BSD-3-Clause | Aggregates diverse DERs as virtual battery models for centralized control |
+| **[VOLTTRON AEMS](https://github.com/VOLTTRON/volttron-pnnl-aems)** | [![GitHub_Stars](https://img.shields.io/github/stars/VOLTTRON/volttron-pnnl-aems?style=social&color=white)](https://github.com/VOLTTRON/volttron-pnnl-aems/stargazers) | Python | Apache-2.0 | Autonomous Energy Management Software for small/medium commercial buildings |
+| **[FRS-FASTDERMS](https://github.com/LBNL-ETA/frs-fastderms)** | [![GitHub_Stars](https://img.shields.io/github/stars/LBNL-ETA/frs-fastderms?style=social&color=white)](https://github.com/LBNL-ETA/frs-fastderms/stargazers) | Python | BSD-3-Clause | LBNL/DOE hierarchical flexible resource scheduler for distribution substations |
 
 ---
 
 ### Detailed Project Descriptions
 
-- **[evcc](https://github.com/evcc-io/evcc)** [![GitHub stars](https://img.shields.io/github/stars/evcc-io/evcc?style=social&color=white)](https://github.com/evcc-io/evcc/stargazers)  
+- **[evcc](https://github.com/evcc-io/evcc)** [![GitHub_Stars](https://img.shields.io/github/stars/evcc-io/evcc?style=social&color=white)](https://github.com/evcc-io/evcc/stargazers)  
   Electric vehicle charging controller and home energy management powerhouse. Natively supports solar PV surplus charging, dynamic electricity tariffs (Awattar, Tibber, Octopus Energy, Nord Pool), battery storage integration, and scheduled charging windows. Integrates with over 150 wallboxes, meters, and inverters.
 
-- **[PyPSA (Python for Power System Analysis)](https://github.com/PyPSA/PyPSA)** [![GitHub stars](https://img.shields.io/github/stars/PyPSA/PyPSA?style=social&color=white)](https://github.com/PyPSA/PyPSA/stargazers)  
+- **[PyPSA (Python for Power System Analysis)](https://github.com/PyPSA/PyPSA)** [![GitHub_Stars](https://img.shields.io/github/stars/PyPSA/PyPSA?style=social&color=white)](https://github.com/PyPSA/PyPSA/stargazers)  
   Toolbox for simulating and optimizing modern power systems with high shares of variable renewables. Supports conventional generation, variable wind and solar, energy storage units, demand-side management, transmission networks, and sector coupling (heat, gas, and transport).
 
-- **[CityLearn](https://github.com/citylearn-project/CityLearn)** [![GitHub stars](https://img.shields.io/github/stars/citylearn-project/CityLearn?style=social&color=white)](https://github.com/citylearn-project/CityLearn/stargazers)  
+- **[CityLearn](https://github.com/citylearn-project/CityLearn)** [![GitHub_Stars](https://img.shields.io/github/stars/citylearn-project/CityLearn?style=social&color=white)](https://github.com/citylearn-project/CityLearn/stargazers)  
   Official OpenAI Gym/Farama Gymnasium environment for benchmarking Reinforcement Learning (RL) and Model Predictive Control (MPC) algorithms in energy management, building demand response, and urban fleet load shaping.
 
-- **[VOLTTRON](https://github.com/VOLTTRON/volttron)** [![GitHub stars](https://img.shields.io/github/stars/VOLTTRON/volttron?style=social&color=white)](https://github.com/VOLTTRON/volttron/stargazers)  
+- **[VOLTTRON](https://github.com/VOLTTRON/volttron)** [![GitHub_Stars](https://img.shields.io/github/stars/VOLTTRON/volttron?style=social&color=white)](https://github.com/VOLTTRON/volttron/stargazers)  
   Flagship open-source agent execution platform developed by Pacific Northwest National Laboratory (PNNL) and the US Department of Energy. Enables secure communication between physical devices (HVAC, battery inverters, smart meters via MODBUS, BACnet, OpenADR) and decentralized optimization applications.
 
-- **[oemof-solph](https://github.com/oemof/oemof-solph)** [![GitHub stars](https://img.shields.io/github/stars/oemof/oemof-solph?style=social&color=white)](https://github.com/oemof/oemof-solph/stargazers)  
+- **[oemof-solph](https://github.com/oemof/oemof-solph)** [![GitHub_Stars](https://img.shields.io/github/stars/oemof/oemof-solph?style=social&color=white)](https://github.com/oemof/oemof-solph/stargazers)  
   Model generator for energy system optimization based on mixed-integer linear programming (MILP). Used by European utilities and universities for multi-carrier dispatching, heat pumps, battery storage, and dynamic VPP generation scheduling.
 
-- **[EVerest](https://github.com/EVerest/everest-core)** [![GitHub stars](https://img.shields.io/github/stars/EVerest/everest-core?style=social&color=white)](https://github.com/EVerest/everest-core/stargazers)  
+- **[EVerest](https://github.com/EVerest/everest-core)** [![GitHub_Stars](https://img.shields.io/github/stars/EVerest/everest-core?style=social&color=white)](https://github.com/EVerest/everest-core/stargazers)  
   The Linux Foundation Energy (LF Energy) operating system for EV charging infrastructure. Coordinates ISO 15118-20, OCPP 2.0.1, bidirectional charging (V2G/V2H), and smart grid power limits to enable EV clusters to act as dynamic demand response reserves.
 
-- **[eemeter](https://github.com/openeemeter/eemeter)** [![GitHub stars](https://img.shields.io/github/stars/openeemeter/eemeter?style=social&color=white)](https://github.com/openeemeter/eemeter/stargazers)  
+- **[eemeter](https://github.com/openeemeter/eemeter)** [![GitHub_Stars](https://img.shields.io/github/stars/openeemeter/eemeter?style=social&color=white)](https://github.com/openeemeter/eemeter/stargazers)  
   Open-source implementation of CalTRACK methods and the standard for calculating normalized metered energy consumption (NMEC) and demand savings. Essential for measuring verifiable load reduction during grid demand response events.
 
-- **[FlexMeasures](https://github.com/FlexMeasures/flexmeasures)** [![GitHub stars](https://img.shields.io/github/stars/FlexMeasures/flexmeasures?style=social&color=white)](https://github.com/FlexMeasures/flexmeasures/stargazers)  
+- **[FlexMeasures](https://github.com/FlexMeasures/flexmeasures)** [![GitHub_Stars](https://img.shields.io/github/stars/FlexMeasures/flexmeasures?style=social&color=white)](https://github.com/FlexMeasures/flexmeasures/stargazers)  
   Intelligent flexibility optimization engine housed under LF Energy. Built for energy service companies (ESCOs) and flex aggregators to dynamically schedule battery charge/discharge cycles, industrial heat buffering, and EV charging around fluctuating market tariffs and physical feeder constraints.
 
-- **[PowSyBl (Power System Blocks)](https://github.com/powsybl/powsybl-core)** [![GitHub stars](https://img.shields.io/github/stars/powsybl/powsybl-core?style=social&color=white)](https://github.com/powsybl/powsybl-core/stargazers)  
+- **[PowSyBl (Power System Blocks)](https://github.com/powsybl/powsybl-core)** [![GitHub_Stars](https://img.shields.io/github/stars/powsybl/powsybl-core?style=social&color=white)](https://github.com/powsybl/powsybl-core/stargazers)  
   Open-source library sponsored by RTE (French TSO) and LF Energy for power flow calculations, remedial action management, dynamic security analysis, and European CIM-CGMES data exchange.
 
-- **[OpenLEADR Python](https://github.com/OpenLEADR/openleadr-python)** [![GitHub stars](https://img.shields.io/github/stars/OpenLEADR/openleadr-python?style=social&color=white)](https://github.com/OpenLEADR/openleadr-python/stargazers)  
+- **[OpenLEADR Python](https://github.com/OpenLEADR/openleadr-python)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenLEADR/openleadr-python?style=social&color=white)](https://github.com/OpenLEADR/openleadr-python/stargazers)  
   Convenient Python implementation of the OpenADR 2.0b communication protocol. Enables developers to build both Virtual Top Nodes (VTNs) to broadcast curtailment events and Virtual End Nodes (VENs) to control local building systems.
 
-- **[Open Smart Grid Platform (OSGP)](https://github.com/OSGP/open-smart-grid-platform)** [![GitHub stars](https://img.shields.io/github/stars/OSGP/open-smart-grid-platform?style=social&color=white)](https://github.com/OSGP/open-smart-grid-platform/stargazers)  
+- **[Open Smart Grid Platform (OSGP)](https://github.com/OSGP/open-smart-grid-platform)** [![GitHub_Stars](https://img.shields.io/github/stars/OSGP/open-smart-grid-platform?style=social&color=white)](https://github.com/OSGP/open-smart-grid-platform/stargazers)  
   Open, scalable, and vendor-independent communication platform for smart grid device management, public lighting automation, and smart metering telemetry over DLMS/COSEM and IEC 61850 protocols.
 
-- **[OpenLEADR-rs](https://github.com/OpenLEADR/openleadr-rs)** [![GitHub stars](https://img.shields.io/github/stars/OpenLEADR/openleadr-rs?style=social&color=white)](https://github.com/OpenLEADR/openleadr-rs/stargazers)  
+- **[OpenLEADR-rs](https://github.com/OpenLEADR/openleadr-rs)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenLEADR/openleadr-rs?style=social&color=white)](https://github.com/OpenLEADR/openleadr-rs/stargazers)  
   Modern Rust implementation of the OpenADR 3.0 and 3.1 automated demand response standard. Engineered for low-memory embedded gateways, grid-aware EVSE controllers, and microgrid controllers requiring single-binary deployments and zero-cost abstractions.
 
-- **[vinerya/virtual-power-plant](https://github.com/vinerya/virtual-power-plant)** [![GitHub stars](https://img.shields.io/github/stars/vinerya/virtual-power-plant?style=social&color=white)](https://github.com/vinerya/virtual-power-plant/stargazers)  
+- **[vinerya/virtual-power-plant](https://github.com/vinerya/virtual-power-plant)** [![GitHub_Stars](https://img.shields.io/github/stars/vinerya/virtual-power-plant?style=social&color=white)](https://github.com/vinerya/virtual-power-plant/stargazers)  
   Full-featured Python library for VPP operations, featuring REST APIs for asset registration, economic dispatch scheduling, backtesting, simulated energy trading, and WebSocket streaming for live telemetry and grid frequency alarms.
 
-- **[VPP Optimization System](https://github.com/2308087369/Virtual-power-plants)** [![GitHub stars](https://img.shields.io/github/stars/2308087369/Virtual-power-plants?style=social&color=white)](https://github.com/2308087369/Virtual-power-plants/stargazers)  
+- **[VPP Optimization System](https://github.com/2308087369/Virtual-power-plants)** [![GitHub_Stars](https://img.shields.io/github/stars/2308087369/Virtual-power-plants?style=social&color=white)](https://github.com/2308087369/Virtual-power-plants/stargazers)  
   Comprehensive multi-carrier virtual power plant coordination tool modeling combined PV, wind, gas turbines, battery storage, and controllable HVAC chillers using CBC linear programming.
 
-- **[DRAF (Demand Response Analysis Framework)](https://github.com/DrafProject/draf)** [![GitHub stars](https://img.shields.io/github/stars/DrafProject/draf?style=social&color=white)](https://github.com/DrafProject/draf/stargazers)  
+- **[DRAF (Demand Response Analysis Framework)](https://github.com/DrafProject/draf)** [![GitHub_Stars](https://img.shields.io/github/stars/DrafProject/draf?style=social&color=white)](https://github.com/DrafProject/draf/stargazers)  
   Mixed-integer linear programming (MILP) decision-support framework designed for multi-energy hubs, district heating networks, and local commercial demand response studies.
 
-- **[NREL Virtual Battery Aggregator](https://github.com/NREL/virtual-battery-aggregator)** [![GitHub stars](https://img.shields.io/github/stars/NREL/virtual-battery-aggregator?style=social&color=white)](https://github.com/NREL/virtual-battery-aggregator/stargazers)  
+- **[NREL Virtual Battery Aggregator](https://github.com/NREL/virtual-battery-aggregator)** [![GitHub_Stars](https://img.shields.io/github/stars/NREL/virtual-battery-aggregator?style=social&color=white)](https://github.com/NREL/virtual-battery-aggregator/stargazers)  
   NREL-developed mathematical formulation converting large heterogeneous fleets of flexible electrical loads (thermostats, water heaters, small batteries) into unified virtual battery models for centralized distribution dispatch.
 
-- **[VOLTTRON AEMS](https://github.com/VOLTTRON/volttron-pnnl-aems)** [![GitHub stars](https://img.shields.io/github/stars/VOLTTRON/volttron-pnnl-aems?style=social&color=white)](https://github.com/VOLTTRON/volttron-pnnl-aems/stargazers)  
+- **[VOLTTRON AEMS](https://github.com/VOLTTRON/volttron-pnnl-aems)** [![GitHub_Stars](https://img.shields.io/github/stars/VOLTTRON/volttron-pnnl-aems?style=social&color=white)](https://github.com/VOLTTRON/volttron-pnnl-aems/stargazers)  
   Autonomous Energy Management Software developed by Pacific Northwest National Laboratory for small and medium commercial buildings, autonomously managing rooftop HVAC units and heat pumps during peak tariff periods.
 
-- **[FRS-FASTDERMS](https://github.com/LBNL-ETA/frs-fastderms)** [![GitHub stars](https://img.shields.io/github/stars/LBNL-ETA/frs-fastderms?style=social&color=white)](https://github.com/LBNL-ETA/frs-fastderms/stargazers)  
+- **[FRS-FASTDERMS](https://github.com/LBNL-ETA/frs-fastderms)** [![GitHub_Stars](https://img.shields.io/github/stars/LBNL-ETA/frs-fastderms?style=social&color=white)](https://github.com/LBNL-ETA/frs-fastderms/stargazers)  
   Lawrence Berkeley National Laboratory (LBNL) hierarchical controller for distribution substation feeders, integrating day-ahead stochastic scheduling, intra-hour model predictive control (MPC), and real-time PID frequency response.
 
 ---
@@ -191,7 +191,7 @@ Contributions are welcome and essential for keeping this ecosystem accurate and 
 2. 🌿 Create a feature branch (`git checkout -b feature/new-grid-platform`).
 3. 📝 Add your platform or project to the appropriate section:
    - For SaaS: Name, company scale (valuation/revenue), specific starting pricing, and concrete free trial limits.
-   - For Open-Source: Full GitHub URL, proper star badge with `style=social&color=white`, language, license, and concise technical description.
+   - For Open-Source: Full GitHub URL, proper Stars_Badge with `style=social&color=white`, language, license, and concise technical description.
 4. 🧪 Verify all markdown links and formatting.
 5. 🚀 Submit a Pull Request with a clear description of the proposed addition.
 
